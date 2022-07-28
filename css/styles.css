@@ -1,0 +1,28 @@
+.container-fluid
+{
+    background: #161616;
+    margin-top: 30px;
+    padding-top: 90px;
+
+}
+
+.footer
+{
+    text-align: center;
+    color: white;
+
+}
+
+
+.social-media
+{
+    text-align: center;
+
+}
+
+.social-media a i
+{
+    margin-right: 30px;
+    margin-bottom: 50px;
+    color: white;
+}
