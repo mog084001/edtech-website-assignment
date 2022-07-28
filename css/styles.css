@@ -1,3 +1,25 @@
+.companies
+{
+    text-align: center;
+    padding: 10px 20px;
+
+}
+
+.company-logo
+{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 50px;
+}
+
+.company-logo img
+{
+    width: 50;
+    height: 50;
+    font-size: 0em;
+}
+
+/* footer part */
 .container-fluid
 {
     background: #161616;
